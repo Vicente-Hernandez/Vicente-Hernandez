@@ -65,9 +65,9 @@ expertise = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vicente-Hernandez&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicente-Hernandez&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
@@ -93,6 +93,6 @@ expertise = {
   
 *"Transformando datos en decisiones estratégicas"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Vicente-Hernandez&color=blueviolet&style=flat-square)
 
 </div>
