@@ -112,8 +112,8 @@ vicente = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vicente-Hernandez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicente-Hernandez&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vicente-Hernandez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vicente-Hernandez&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 </div>
 
