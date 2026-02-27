@@ -6,6 +6,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicentehernandeza/)
+[![DataCamp](https://img.shields.io/badge/DataCamp-Portfolio-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/vicenteahernandeza)
 ![Profile Views](https://komarev.com/ghpvc/?username=Vicente-Hernandez&color=6E40C9&style=for-the-badge&label=VISITAS)
 
 </div>
@@ -14,13 +15,16 @@
 
 ## 🧭 Sobre Mí
 
-Profesional con experiencia en **Finanzas** y **Transformación Digital**, especializado en **Ciencia de Datos** y **Machine Learning**. Mi enfoque es aplicar análisis avanzado e inteligencia artificial para resolver problemas reales del sector financiero y potenciar la toma de decisiones basada en datos.
+*"Analytical wordsmith, crafting stories with data as the pen and curiosity as the ink."*
+
+Profesional con experiencia en **Finanzas** y **Transformación Digital**, especializado en **Ciencia de Datos** y **Machine Learning**. CEO & Founder de **DataVic**, donde diseño soluciones de transformación digital para PYMEs. Mi enfoque es aplicar análisis avanzado e IA para resolver problemas reales del sector financiero.
 
 ```python
 vicente = {
-    "ubicación"  : "Chile 🇨🇱",
-    "enfoque"    : ["Data Science aplicada a Finanzas", "Machine Learning", "MLOps"],
-    "aprendiendo": ["Feature Engineering avanzado", "Deep Learning", "LLMs"],
+    "ubicación"  : "Santiago, Chile 🇨🇱",
+    "rol_actual" : ["Financial Service Advisor @ Autofin", "Founder & CEO @ DataVic"],
+    "enfoque"    : ["Data Science aplicada a Finanzas", "Machine Learning", "LLMs"],
+    "aprendiendo": ["Deep Learning con PyTorch", "Explainable AI", "Hugging Face"],
     "filosofía"  : "Transformando datos en decisiones estratégicas 📊"
 }
 ```
@@ -29,12 +33,14 @@ vicente = {
 
 ## 🎓 Formación
 
-| Certificación | Institución |
-|:---|:---|
-| 🤖 Machine Learning Specialization | Stanford University & DeepLearning.AI |
-| 📊 Google Data Analytics Certificate | Google |
-| 💻 Bootcamp Data Science & ML | Kibernum |
-| 💻 Bootcamp Data Science & ML | Talento Digital |
+| Certificación | Institución | Año |
+|:---|:---|:---:|
+| 🤖 Machine Learning Specialization | Stanford University & DeepLearning.AI | 2025 |
+| 📊 Google Data Analytics Certificate | Google | 2024 |
+| 💻 Certificate in Machine Learning | Kibernum & Talento Digital | 2025 |
+| 💻 Certificate in Data Science | Kibernum & Talento Digital | 2024 |
+| 🐍 Python Full Stack | Coding Dojo & Talento Digital | 2021 |
+| 🎓 Ing. en Administración de Empresas, mención Finanzas | Duoc UC | 2020 |
 
 ---
 
@@ -66,6 +72,7 @@ vicente = {
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 **Visualización & BI**
 
@@ -86,25 +93,28 @@ vicente = {
 
 ---
 
-## 💼 Áreas de Expertise
+## 🗂️ Proyectos Destacados
 
-<div align="center">
+> Proyectos desarrollados en **DataCamp** y repositorios propios.
 
-| 💰 Finanzas | 🔬 Data Science | 🤖 Machine Learning | 🏢 Negocios |
-|:---:|:---:|:---:|:---:|
-| Control de Gestión | Análisis Exploratorio | Supervised Learning | Transformación Digital |
-| Análisis Financiero | Feature Engineering | Deep Learning | Estrategia |
-| Retail Financiero | Modelado Predictivo | Model Optimization | Alianzas Estratégicas |
-
-</div>
+| Proyecto | Tecnología | Descripción |
+|:---|:---:|:---|
+| [🎮 Golden Era of Video Games](https://www.datacamp.com/datalab/w/32a61605-6ff8-4c79-a4ad-39d501559fbc/edit) | SQL | Análisis histórico de ventas y críticas para identificar la época dorada |
+| [🚗 Analyzing Car Reviews with LLMs](https://www.datacamp.com/datalab/w/734effb3-401c-4a53-9f0b-ee3687962695/edit) | Python · LLMs | Análisis de sentimiento en reseñas automotrices con modelos de lenguaje |
+| [🔤 Multi-Input Models for OCR](https://www.datacamp.com/datalab/w/8c2bd9c5-df58-4bb2-9538-a0c350a1ea31/edit) | Python · Deep Learning | Desarrollo de modelos multi-input para reconocimiento óptico de caracteres |
+| [🏫 NYC School Test Results](https://www.datacamp.com/) | Python | Exploración y análisis de resultados académicos en escuelas públicas de NYC |
+| [🚔 Analyzing Crime in Los Angeles](https://www.datacamp.com/) | Python | Identificación de patrones criminales en datos del LAPD |
 
 ---
 
-## 🌱 Actualmente Trabajando En
+## 💼 Experiencia Profesional
 
-- 📈 Modelos de ML aplicados a análisis y predicción financiera
-- 🗂️ Construcción de portafolio de proyectos de Data Science
-- 🔍 Técnicas avanzadas de feature engineering para datos financieros
+| Empresa | Rol | Período |
+|:---|:---|:---:|
+| 🏦 **Autofin Chile** | Financial Service Advisor | Abr 2025 - Presente |
+| 🚀 **DataVic** | Founder & CEO | Ene 2024 - Presente |
+| 🏢 **Marubeni Corporation** | Financial Service Advisor | Abr 2022 - May 2025 |
+| 🏪 **Cencosud Scotiabank** | Ejecutivo Comercial | Oct 2019 - Mar 2020 |
 
 ---
 
@@ -112,8 +122,10 @@ vicente = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vicente-Hernandez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vicente-Hernandez&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vicente-Hernandez&theme=tokyonight"/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vicente-Hernandez&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vicente-Hernandez&theme=tokyonight"/>
 
 </div>
 
@@ -125,6 +137,14 @@ vicente = {
 
 ---
 
+## 🌱 Actualmente Trabajando En
+
+- 📈 Modelos de ML aplicados a análisis y predicción financiera
+- 🤗 Exploración de LLMs y modelos de Hugging Face aplicados a finanzas
+- 🧠 Explainable AI para modelos de crédito automotriz
+
+---
+
 ## 📫 Conectemos
 
 <div align="center">
@@ -132,5 +152,6 @@ vicente = {
 ¿Interesado en colaborar o discutir sobre Data Science y Finanzas?
 
 [![LinkedIn](https://img.shields.io/badge/Conecta_conmigo_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicentehernandeza/)
+[![DataCamp](https://img.shields.io/badge/Ver_mi_Portfolio_en_DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/vicenteahernandeza)
 
 </div>
